@@ -94,4 +94,3 @@ Using git and GitHub can be challenging, and you'll inevitably run into issues. 
 
 To practice using these basic commands, see [exercise-1](http://github.com/info201-s17/m5-git-intro/tree/master/exercise-1)
 
-Desposato-I had a bagel and cream cheese for breakfast.
